@@ -20,13 +20,18 @@
 ## 3. 구현
 
 기울기 센서를 통해 기울어 지는 방향과 기울기 감지
+
 기울어지는 방향으로 모터를 이용하여 핸들을 조정
+
 
 조도 센서를 이용하여 어두워질 경우 led조명 작동
 
 충격 센서를 이용하여 일정 수준 이상의 충격이 가해질 경우 
+
 사고가 발생한 것으로 감지 
+
 미리 등록된 연락처로 메시지 전송
+
 
 ## 4. 결과
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/a91fd7cf-b8ea-4c6d-afcd-a07456a7aefd)
