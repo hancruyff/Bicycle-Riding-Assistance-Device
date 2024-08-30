@@ -12,7 +12,7 @@
 
 자전거 주행 보조 장치 개발
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/CoolSMS&#95;API-blue?style=plastic&logo=coolsmsapi&logoColor=white"/>
 
 
 ## 2. 🔧주요 기능
