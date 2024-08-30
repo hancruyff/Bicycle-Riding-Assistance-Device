@@ -11,11 +11,15 @@
 
 자전거 주행 보조 장치 개발
 
+<img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
 ## 2. 주요 기능
 
 - 기울어지는 방향으로 핸들 조정 기능
 - 어두운 곳에서 자동 조명 기능
 - 사고 발생 시 미리 입력된 연락처로 연락 기능
+
 
 ## 3. 구현
 
@@ -33,4 +37,5 @@
 
 
 ## 4. 결과
+
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/a91fd7cf-b8ea-4c6d-afcd-a07456a7aefd)
