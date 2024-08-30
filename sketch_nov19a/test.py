@@ -16,8 +16,8 @@ while True:
     ## 4 params(to, from, type, text) are mandatory. must be filled
             params = dict()
             params['type'] = 'sms' # Message type ( sms, lms, mms, ata )
-            params['to'] = '01024565604 ' # Recipients Number '01000000000,01000000001'
-            params['from'] = '01024565604' # Sender number
+            params['to'] = '01000000000 ' # Recipients Number '01000000000,01000000001'
+            params['from'] = '01000000000' # Sender number
             params['text'] = '사고발생' # Message
 
             cool = Message(api_key, api_secret)
